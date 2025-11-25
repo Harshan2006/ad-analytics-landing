@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ad-analytics-landing/static/css/main.6f9afa74.css",
+    "main.js": "/ad-analytics-landing/static/js/main.b42f281e.js",
+    "static/js/453.e3679e7e.chunk.js": "/ad-analytics-landing/static/js/453.e3679e7e.chunk.js",
+    "index.html": "/ad-analytics-landing/index.html",
+    "main.6f9afa74.css.map": "/ad-analytics-landing/static/css/main.6f9afa74.css.map",
+    "main.b42f281e.js.map": "/ad-analytics-landing/static/js/main.b42f281e.js.map",
+    "453.e3679e7e.chunk.js.map": "/ad-analytics-landing/static/js/453.e3679e7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f9afa74.css",
+    "static/js/main.b42f281e.js"
+  ]
+}
